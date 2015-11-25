@@ -6,7 +6,6 @@ import java.util.Random;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
-import static org.junit.Assert.fail;
 
 public class GenerateRandomTest {
     private  GenerateRandom generateRandom;
@@ -27,16 +26,16 @@ public class GenerateRandomTest {
     public void test_random_number_no_repeat() throws Exception {
         String  randomNumber = generateRandom.generateRandomNumber();
 
-//        boolean result = randomNumber.chars().allMatch( Character::isDigit);
-//        assertThat( result, is(true) );
-        int len = randomNumber.length();
-        for ( int i = 0; i < len - 1; ++i ){
-            for ( int j = i+1; j < len; ++j ){
-                if ( randomNumber.charAt( i ) == randomNumber.charAt( j ) ){
-                    fail();
-                }
-            }
-        }
+        boolean result = randomNumber.chars().allMatch( Character::isDigit);
+        assertThat( result, is(true) );
+//        int len = randomNumber.length();
+//        for ( int i = 0; i < len - 1; ++i ){
+//            for ( int j = i+1; j < len; ++j ){
+//                if ( randomNumber.charAt( i ) == randomNumber.charAt( j ) ){
+//                    fail();
+//                }
+//            }
+//        }
     }
 
     @Test

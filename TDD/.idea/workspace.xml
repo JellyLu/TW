@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="342bdb86-3719-4490-8797-da2ac996024f" name="Default" comment="" />
+    <list default="true" id="342bdb86-3719-4490-8797-da2ac996024f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PlayGame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/PlayGameTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/classes/GuessNumberGameTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/TEST-GuessNumberGameTest.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/GuessNumberGame.class" afterPath="$PROJECT_DIR$/build/classes/main/GuessNumberGame.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/GenerateRandomTest.class" afterPath="$PROJECT_DIR$/build/classes/test/GenerateRandomTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/binary/test/output.bin" afterPath="$PROJECT_DIR$/build/test-results/binary/test/output.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/binary/test/output.bin.idx" afterPath="$PROJECT_DIR$/build/test-results/binary/test/output.bin.idx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/binary/test/results.bin" afterPath="$PROJECT_DIR$/build/test-results/binary/test/results.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/index.html" afterPath="$PROJECT_DIR$/build/reports/tests/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/packages/default-package.html" afterPath="$PROJECT_DIR$/build/reports/tests/packages/default-package.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/GuessNumberGame.java" afterPath="$PROJECT_DIR$/src/main/java/GuessNumberGame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/GenerateRandomTest.java" afterPath="$PROJECT_DIR$/src/test/java/GenerateRandomTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/GuessNumberGameTest.java" afterPath="$PROJECT_DIR$/src/test/java/GuessNumberGameTest.java" />
+    </list>
     <ignored path="NumberGame.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,21 +63,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GuessNumberGameTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/GuessNumberGameTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37604457">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.5849582">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,17 +77,42 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/GuessNumberGame.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserInputTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/UserInputTest.java">
+      <file leaf-file-name="PlayGame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PlayGame.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+              <folding>
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserInputIsLegalTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/UserInputIsLegalTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResultTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ResultTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,6 +128,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -294,13 +336,15 @@
         <option value="$PROJECT_DIR$/src/main/java/UserInput.java" />
         <option value="$PROJECT_DIR$/src/main/java/UserInputIsLegal.java" />
         <option value="$PROJECT_DIR$/src/test/java/UserInputIsLegalTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/GuessNumberGame.java" />
         <option value="$PROJECT_DIR$/src/test/java/CompareNumbersTest.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/UserInputTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Console.java" />
         <option value="$PROJECT_DIR$/src/test/java/ConsoleTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/GenerateRandomTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PlayGame.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PlayGameTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GuessNumberGame.java" />
         <option value="$PROJECT_DIR$/src/test/java/GuessNumberGameTest.java" />
       </list>
     </option>
@@ -313,12 +357,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="78" />
+    <option name="x" value="24" />
+    <option name="y" value="23" />
     <option name="width" value="1256" />
     <option name="height" value="669" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -343,6 +387,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -443,13 +488,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
@@ -457,7 +501,45 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.GuessNumberGameTest">
+  <component name="RunManager" selected="Gradle.PlayGameTest">
+    <configuration default="false" name="test_random_number_no_repeat" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;GenerateRandomTest.test_random_number_no_repeat&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="cleanTest" />
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="test_random_number_each_number_is_int" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;GenerateRandomTest.test_random_number_each_number_is_int&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="cleanTest" />
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
     <configuration default="false" name="GenerateRandomTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -477,12 +559,12 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
-    <configuration default="false" name="ResultTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration default="false" name="PlayGameTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests ResultTest" />
+        <option name="scriptParameters" value="--tests PlayGameTest" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -496,50 +578,12 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
-    <configuration default="false" name="UserInputIsLegalTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration default="false" name="test_play_game_when_fail" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests UserInputIsLegalTest" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="cleanTest" />
-            <option value="test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="false" name="UserInputTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests UserInputTest" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="cleanTest" />
-            <option value="test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="false" name="GuessNumberGameTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests GuessNumberGameTest" />
+        <option name="scriptParameters" value="--tests &quot;PlayGameTest.test_play_game_when_fail&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -798,19 +842,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Gradle.GenerateRandomTest" />
-      <item index="1" class="java.lang.String" itemvalue="Gradle.ResultTest" />
-      <item index="2" class="java.lang.String" itemvalue="Gradle.UserInputIsLegalTest" />
-      <item index="3" class="java.lang.String" itemvalue="Gradle.UserInputTest" />
-      <item index="4" class="java.lang.String" itemvalue="Gradle.GuessNumberGameTest" />
+      <item index="0" class="java.lang.String" itemvalue="Gradle.test_random_number_no_repeat" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.test_random_number_each_number_is_int" />
+      <item index="2" class="java.lang.String" itemvalue="Gradle.GenerateRandomTest" />
+      <item index="3" class="java.lang.String" itemvalue="Gradle.PlayGameTest" />
+      <item index="4" class="java.lang.String" itemvalue="Gradle.test_play_game_when_fail" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Gradle.GuessNumberGameTest" />
-        <item index="1" class="java.lang.String" itemvalue="Gradle.UserInputTest" />
-        <item index="2" class="java.lang.String" itemvalue="Gradle.UserInputIsLegalTest" />
-        <item index="3" class="java.lang.String" itemvalue="Gradle.ResultTest" />
-        <item index="4" class="java.lang.String" itemvalue="Gradle.GenerateRandomTest" />
+        <item index="0" class="java.lang.String" itemvalue="Gradle.PlayGameTest" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.test_play_game_when_fail" />
+        <item index="2" class="java.lang.String" itemvalue="Gradle.GenerateRandomTest" />
+        <item index="3" class="java.lang.String" itemvalue="Gradle.test_random_number_no_repeat" />
+        <item index="4" class="java.lang.String" itemvalue="Gradle.test_random_number_each_number_is_int" />
       </list>
     </recent_temporary>
   </component>
@@ -825,49 +869,49 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ConsoleTest - 2015.11.24 at 01h 01m 33s.xml">
-      <configuration name="ConsoleTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="ConsoleTest - 2015.11.24 at 01h 04m 44s.xml">
-      <configuration name="ConsoleTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GenerateRandomTest - 2015.11.24 at 01h 03m 29s.xml">
+    <history-entry file="GenerateRandomTest - 2015.11.25 at 18h 53m 28s.xml">
       <configuration name="GenerateRandomTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="GenerateRandomTest - 2015.11.24 at 01h 04m 23s.xml">
-      <configuration name="GenerateRandomTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="PlayGameTest - 2015.11.25 at 19h 51m 20s.xml">
+      <configuration name="PlayGameTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="GenerateRandomTest - 2015.11.24 at 01h 05m 22s.xml">
-      <configuration name="GenerateRandomTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="PlayGameTest - 2015.11.25 at 19h 55m 51s.xml">
+      <configuration name="PlayGameTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="GuessNumberGameTest - 2015.11.24 at 01h 06m 49s.xml">
-      <configuration name="GuessNumberGameTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="PlayGameTest - 2015.11.25 at 19h 56m 59s.xml">
+      <configuration name="PlayGameTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ResultTest - 2015.11.24 at 01h 05m 39s.xml">
-      <configuration name="ResultTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="PlayGameTest - 2015.11.25 at 19h 58m 05s.xml">
+      <configuration name="PlayGameTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="UserInputIsLegalTest - 2015.11.24 at 01h 06m 09s.xml">
-      <configuration name="UserInputIsLegalTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="test_play_game_when_fail - 2015.11.25 at 19h 57m 57s.xml">
+      <configuration name="test_play_game_when_fail" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="UserInputTest - 2015.11.24 at 01h 06m 31s.xml">
-      <configuration name="UserInputTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="test_random_number_no_repeat - 2015.11.24 at 14h 06m 29s.xml">
+      <configuration name="test_random_number_no_repeat" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="test_begin_Game_should_print_welecom_on_the_console - 2015.11.24 at 00h 56m 30s.xml">
-      <configuration name="test_begin_Game_should_print_welecom_on_the_console" configurationId="GradleRunConfiguration" />
+    <history-entry file="test_random_number_no_repeat - 2015.11.24 at 14h 09m 13s.xml">
+      <configuration name="test_random_number_no_repeat" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="test_random_number_no_repeat - 2015.11.24 at 14h 11m 19s.xml">
+      <configuration name="test_random_number_no_repeat" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="test_random_number_no_repeat - 2015.11.24 at 14h 11m 57s.xml">
+      <configuration name="test_random_number_no_repeat" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="78" width="1256" height="669" extended-state="0" />
+    <frame x="24" y="23" width="1256" height="669" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928944" sideWeight="0.52635914" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928944" sideWeight="0.5362438" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928944" sideWeight="0.47364086" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928944" sideWeight="0.47364086" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928944" sideWeight="0.46375617" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928944" sideWeight="0.47034597" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25782537" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -897,6 +941,40 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/GuessNumberGameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GuessNumberGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/UserInputTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -995,8 +1073,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
-            <element signature="e#82#83#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#82#83#0" expanded="false" />
+            <element signature="e#136#137#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1123,8 +1201,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
           <folding>
-            <element signature="e#82#83#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#82#83#0" expanded="false" />
+            <element signature="e#136#137#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1141,7 +1219,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1149,7 +1226,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1157,7 +1233,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1165,7 +1240,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.25373134">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1174,16 +1248,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CompareNumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.3398328">
-          <caret line="56" column="50" selection-start-line="56" selection-start-column="50" selection-end-line="56" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1204,27 +1268,6 @@
             <element signature="e#734#735#0" expanded="true" />
             <element signature="e#821#822#0" expanded="true" />
             <element signature="e#877#878#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/GenerateRandomTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.7576602">
-          <caret line="66" column="48" selection-start-line="66" selection-start-column="48" selection-end-line="66" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Console.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="47" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="47" />
-          <folding>
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1251,7 +1294,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ResultTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37604457">
+        <state vertical-scroll-proportion="0.0">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1259,13 +1302,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/UserInputIsLegalTest.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/function/IntPredicate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1643454">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/lang/CharSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.58774376">
+          <caret line="129" column="29" selection-start-line="129" selection-start-column="29" selection-end-line="129" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3955432">
+          <caret line="167" column="21" selection-start-line="167" selection-start-column="21" selection-end-line="167" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1279,18 +1336,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/UserInputIsLegalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/GenerateRandomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Console.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CompareNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.038997214">
+          <caret line="56" column="50" selection-start-line="56" selection-start-column="50" selection-end-line="56" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PlayGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PlayGameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0">
+          <caret line="37" column="64" selection-start-line="37" selection-start-column="64" selection-end-line="37" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/GuessNumberGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GuessNumberGameTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37604457">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.5849582">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
