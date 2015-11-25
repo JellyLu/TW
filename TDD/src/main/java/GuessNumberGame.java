@@ -2,7 +2,9 @@ import java.util.Random;
 
 public class GuessNumberGame {
 
-
+    public static void main(String[] args){
+        numberGame();
+    }
 
     public static void numberGame(){
         int times = 6;
