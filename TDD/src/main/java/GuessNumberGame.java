@@ -2,11 +2,13 @@ import java.util.Random;
 
 public class GuessNumberGame {
 
-    public static void main(String[] args){
-        numberGame();
+    final Console console;
+
+    public GuessNumberGame( Console console ){
+        this.console = console;
     }
 
-    public static void numberGame(){
+    public void numberGame(){
         int times = 6;
         Console.beginGamePrintOnConsole();
         boolean win = false;
@@ -25,7 +27,7 @@ public class GuessNumberGame {
                 break;
             }
         }
-        Console.gameResultPrintOnConsole( win );
+        console.gameResultPrintOnConsole( win );
         System.exit(0);
     }
 
